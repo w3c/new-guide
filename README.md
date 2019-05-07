@@ -96,7 +96,7 @@ Please start at [index.md](index.md). The rest of the content is linked from the
 * [Using W3C Wiki](#) (separate section)
 * [Edit your contact information or affiliation](#) (within parent page)
 
-- [Staff Portal](#) (not created yet)
+[Staff Portal](#) (not created yet)
 
 
 
