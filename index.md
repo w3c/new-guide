@@ -1,6 +1,7 @@
 # /Guide Homepage
 ## Menu
 * [Code of Conduct](code_of_conduct.md)
+* [Rec Track](rectrack/index.md)
 * [For Chairs](chairs/index.md)
 * [For Editors](editors/index.md)
 * [For Members and Group Participants](participants/index.md)
