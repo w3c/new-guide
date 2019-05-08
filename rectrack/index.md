@@ -2,6 +2,7 @@
 ## Menu
 * [Rec Track Explained](#) (below)
 * [Recommendation Track Readiness Best Practices](#) (below)
+* [Progressing through Maturity Levels](#) (below)
 * [<- Back to **Home**](../index.md)
 
 ## Content
@@ -14,5 +15,8 @@ Take and modify content from <https://github.com/w3c/wg-effectiveness/blob/maste
 Add Content.
 
 Include best practice advice to accompany all proposals for normative changes with tests that can be contributed to test suites, since they will be needed to exit CR anyway, and they help clarify exactly what the spec text needs to say.
+
+### Progressing through Maturity Levels
+Take and modify content from <https://www.w3.org/Guide/process/predicting-milestones.html>
 
 
