@@ -19,16 +19,19 @@ Group reviews occur throughout a RecTrack Document's time on the Recommendations
 ### Horizontal Reviews
 Horizontal Reviews are when you request a review of another W3C Group. Below is an explanation of these groups and the reviews they will complete for your document.
 
-### TAG
+#### TAG
 The TAG will do a general review of your document. They will be looking for technical inconsistencies and alignment with other W3C Recommendations as well as making sure the Document fits with the architecture of the web and supported by W3C.
 
 To request TAG review ...
 
-### Accessibility Review
+#### Accessibility Review
 Questionnaire?
 
-### Privacy Review
+#### Internationalisation
+Link to [Contact the WG](https://www.w3.org/International/about#contact),[Request a review](https://www.w3.org/International/review-request),  [Review radar](https://github.com/w3c/i18n-activity/projects/1) and [ • Review comment tracker](https://w3c.github.io/i18n-activity/reviews/)
+ 
+#### Privacy Review
 The PING group manage a Privacy Questionnaire. Please reach out to (@todo add mailing list) and request a privacy questionnaire. Please complete this for your document and return it to the PING group.
 
-### Security Review
+#### Security Review
 Questionnaire?
