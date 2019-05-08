@@ -10,6 +10,10 @@ Please start at [index.md](index.md). The rest of the content is linked from the
 ## Sitemap
 [Code of Conduct](code_of_conduct.md)
 
+[Recommendation Track](rectrack/index.md)
+* [Rec Track Explained](#) (within parent page)
+* [Recommendation Track Readiness Best Practices](#) (within parent page)
+
 [For Chairs](chairs/index.md)
 * [Meetings](chairs/meetings.md)
   * [Quick start guide](#) (within parent page)
