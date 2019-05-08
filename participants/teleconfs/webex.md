@@ -1,5 +1,6 @@
 # Attending Meetings and Teleconferences
 ## Menu
+* [FAQ](#faq)
 * [<- Back to **teleconfs**](../index.md)
 
 ## Content
@@ -9,4 +10,7 @@ The W3C system for teleconferences is Webex. Prior to a teleconference meeting g
 
 ### Other Systems
 Sometimes a group will opt to use another teleconference system. This may be because the chair has use of a system at their workplace which they prefer to use. W3C allows this, but if any group members have as issue with this please let the chair or team contact know so they can encourage the chair to move to the Webex system. 
+
+### FAQ
+Take and alter content from <https://www.w3.org/2006/tools/wiki/WebExFAQ>
 
