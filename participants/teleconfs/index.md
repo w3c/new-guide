@@ -1,7 +1,7 @@
 # Attending Meetings and Teleconferences
 ## Menu
-* [Webex and Other Teleconf Services](#) (webex.md)
-* [IRC](#irc) (../irc_meetings.md)
+* [Webex and Other Teleconf Services](webex.md)
+* [IRC](../irc_meetings.md)
 * [Speaking and Adding Items to an Agenda](#irc) (below)
 * [Giving a Presentation](#) (below)
 * [Calendar Invites](#calendar-invites) (below)
