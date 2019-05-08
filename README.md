@@ -72,7 +72,7 @@ Please start at [index.md](index.md). The rest of the content is linked from the
   * [Horizontal Reviews](#) (within parent page)
 * [List of Mailing Lists](#) (separate section)
 
-- [For Members and Group Participants](participants/index.md)
+[For Members and Group Participants](participants/index.md)
 * [Join a group](#) (within parent page)
   * [Working Groups](#) (within parent page)
   * [Interest Groups](#) (within parent page)
@@ -101,41 +101,3 @@ Please start at [index.md](index.md). The rest of the content is linked from the
 * [Edit your contact information or affiliation](#) (within parent page)
 
 [Staff Portal](#) (not created yet)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
