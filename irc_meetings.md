@@ -45,8 +45,8 @@ Add Content. Include Globalisation issues, /me
 ### Scribing
 Add Content. How to scribe, ..., tips on scribing.
 
-### Issue Tracker
-Add Content.
+### Issue Tracker / Trackbot
+Take and modify content from <https://www.w3.org/2005/06/tracker/irc>
 
 ### Working with Github
 Add Content. Florian had some ideas here.
