@@ -30,9 +30,13 @@ Add Content. q+, q-, ack, q+ with message.
 Add Content. s/mistake/fix
 
 ### RRSAgent
+Find and modify content from <https://www.w3.org/2002/03/RRSAgent>
+
 Add Content. What it is, how to invite, how to manage.
 
 ### Zakim
+Find and modify content from <https://www.w3.org/2001/12/zakim-irc-bot.html>
+
 Add Content. What it is, how to invite, how to manage.
 
 ### IRC Decorum
