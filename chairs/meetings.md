@@ -1,6 +1,7 @@
 # Meetings
 ## Menu
 * [Quick start guide](#) (below)
+* [Running Meetings](#) (below)
 * [Setting Up Teleconfs](#) (below)
 * [Face-to-Face Meetings](#) (below)
 * [IRC / Scribing](#) (link to other section)
@@ -11,6 +12,9 @@ Information on managing and running meetings.
 
 ### Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists
 Take and modify content from <http://dev.w3.org/2002/scribe/scribedoc.htm#Quick_Start_Guide>
+
+### Running Meetings
+Take and modify content from <https://www.w3.org/wiki/Facilitating_Meetings>
 
 ### Setting up Teleconferences
 Take and modify content from <https://www.w3.org/Guide/1998/08/TeleconferenceHowTo>
