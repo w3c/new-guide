@@ -27,7 +27,7 @@ Text. Link to "Creating a Charter".
 Text. Link to "Creating a Charter".
 
 ### Creating a Charter
-Add content.
+Take content from [https://www.w3.org/Guide/process/charter.html#creation](https://www.w3.org/Guide/process/charter.html#creation)
 
 ### Amending a Charter
 Add Content.
