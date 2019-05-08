@@ -13,6 +13,8 @@
 * [<- Back to **Home**](index.md)
 
 ## Content
+Most content can be adapted from <https://www.w3.org/Project/IRC/>.
+
 In meetings IRC is used to take minutes and monitor speaker queues and actions during the meeting. See below for details on how to use IRC.
 
 ### What is IRC?
