@@ -18,7 +18,7 @@ Add content.
 See [Incubation and WICG](../editors/incubation.md) also.
 
 ### Community Groups
-Add content.
+Take content from [https://www.w3.org/2016/04/cg-support/](https://www.w3.org/2016/04/cg-support/)
 
 ### Starting a Business Group
 Text. Link to "Creating a Charter".
